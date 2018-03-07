@@ -1,0 +1,11 @@
+{
+  "name": "my-budgety-site",
+  "version": "1.0.0",
+  "description": "my budgety site",
+  "scripts": {
+    "start": "harp server --port $PORT"
+  },
+  "dependencies": {
+    "harp": "*"
+  }
+}
